@@ -1,2 +1,2 @@
-import { CodeTapAcademy } from './app.component'
-export { CodeTapAcademy }
+import { CodeTapAcademy } from './app.component';
+export { CodeTapAcademy };

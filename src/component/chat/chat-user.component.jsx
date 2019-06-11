@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { StyledUserSpan } from './chat-user.style';
 
-export const UserSpan = ({ text }) => <StyledUserSpan>{text}</StyledUserSpan>
+export const UserSpan = ({ text }) => <StyledUserSpan>{text}</StyledUserSpan>;
